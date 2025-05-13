@@ -2,5 +2,6 @@ example team.txt file... (Andrew)... (Kobe)...(Nassar)
 
 
 Adam
-Kobe
+Kobe B
 Nassar
+
